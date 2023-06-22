@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Data Structures Implementations in C++
 
 ## List of data structures implemented
@@ -22,3 +23,28 @@
 - Add two lists
 - Recursion practice set
 - BST problems (Markar Assignment)
+=======
+#DataStructures
+
+The repository currently includes implementations of the following data structures:
+
+Array 
+
+Linked List
+
+Stack
+
+Queue
+
+Binary Tree
+
+Binary Search Tree
+
+Heap
+
+Hash Table
+
+Graph
+
+Tree
+>>>>>>> origin/master
