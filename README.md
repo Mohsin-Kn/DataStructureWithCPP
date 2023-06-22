@@ -1,5 +1,4 @@
-
-#Data Structures
+#DataStructures
 
 The repository currently includes implementations of the following data structures:
 
